@@ -1,0 +1,13 @@
+div {
+    height: 600px;
+
+    width: 600px;
+
+    background-image: url("bemvindo.gif");
+
+    background-position: top;
+    
+   
+
+    background-repeat: no-repeat;
+}
