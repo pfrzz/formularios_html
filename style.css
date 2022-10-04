@@ -1,35 +1,28 @@
 div {
-    height: 600px;
-
-    width: 600px;
-
-    background-image: url("bemvindo.gif");
-
-    background-position: 100px -65px;
-    
-   
-
-    background-repeat: no-repeat;
-
+height: 600px;
+width: 600px;
+background-image: url("bemvindo.gif");
+background-position: 100px -65px;
+background-repeat: no-repeat;
 }
 fieldset{
-    display: block;
-    width: 10%;
-    float:left;
-    border-width: 8px;
-    border-color: #04c6e1;
-    border-style:dashed;
-  }
-  body{
-    color: #0d0d44;
-  }
-  input{
-    background-color: #04c6e1;
-    color:#0d0d44;
-    }
-    input::placeholder{
-        color: #0d0d44;
-    }
-    legend{
-        font-size: larger;
-    }
+display: block;
+width: 10%;
+float:left;
+border-width: 8px;
+border-color: #04c6e1;
+border-style:dashed;
+}
+body{
+color: #0d0d44;
+}
+input{
+background-color: #04c6e1;
+color:#0d0d44;
+}
+input::placeholder{
+color: #0d0d44;
+}
+legend{
+font-size: larger;
+}
